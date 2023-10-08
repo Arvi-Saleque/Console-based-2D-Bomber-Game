@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1696783664 source:c:\users\pc\desktop\bomber game\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	<random>
+	<chrono>
+	<deque>
+	<map>
+	<set>
+	<fstream>
+	"headers/interface.h"
+
+1696037034 c:\users\pc\desktop\bomber game\interface.h
+	"leaderboard.h"
+	"game.h"
+
+1696036867 c:\users\pc\desktop\bomber game\leaderboard.h
+	"mypair.h"
+
+1696037021 c:\users\pc\desktop\bomber game\mypair.h
+
+1696037014 c:\users\pc\desktop\bomber game\game.h
+	"drawgrid.h"
+	"enemy.h"
+	"bomb.h"
+
+1696036581 c:\users\pc\desktop\bomber game\drawgrid.h
+
+1696036593 c:\users\pc\desktop\bomber game\enemy.h
+
+1696036604 c:\users\pc\desktop\bomber game\bomb.h
+
+1696037034 c:\users\pc\desktop\bomber game\headers\interface.h
+	"leaderboard.h"
+	"game.h"
+
+1696036867 c:\users\pc\desktop\bomber game\headers\leaderboard.h
+	"mypair.h"
+
+1696037021 c:\users\pc\desktop\bomber game\headers\mypair.h
+
+1696037014 c:\users\pc\desktop\bomber game\headers\game.h
+	"drawgrid.h"
+	"enemy.h"
+	"bomb.h"
+
+1696036581 c:\users\pc\desktop\bomber game\headers\drawgrid.h
+
+1696036593 c:\users\pc\desktop\bomber game\headers\enemy.h
+
+1696036604 c:\users\pc\desktop\bomber game\headers\bomb.h
+
