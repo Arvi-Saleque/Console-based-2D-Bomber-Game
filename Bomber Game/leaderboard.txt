@@ -1,0 +1,4 @@
+sarwad: 20
+sad: 150
+alif: 130
+aluf: 160
